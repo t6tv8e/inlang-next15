@@ -1,0 +1,9 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "helloworld": "Hallo wereld!",
+  "products": "Producten",
+  "food": "Eten",
+  "apples": "Appels",
+  "bananas": "Bananen",
+  "oranges": "Sinaasappels"
+}
